@@ -1,0 +1,10 @@
+body{
+    background: black;
+}
+
+.buttonContainer{
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid linen;
+    background: linear-gradient(#b40000 , #2b0404);
+}
